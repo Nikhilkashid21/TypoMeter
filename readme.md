@@ -1,7 +1,4 @@
-
->what is TypoMeter ?
-
-Here You are provided with an platform where you can check your typing speed.
+Easy and simple platform made using HTML,CSS and Javascript. where you can check your typing speed.
 
 >Check out site @ here
 
